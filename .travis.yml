@@ -9,6 +9,7 @@ cache:
   - $HOME/otp/19.1
   - $HOME/otp/19.2
   - $HOME/.cache/rebar3
+  - _plt
 install: "true"
 script: "make travis"
 branches:
